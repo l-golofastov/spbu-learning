@@ -1,0 +1,15 @@
+C:\Users\Professional\Documents\GitHub\spsu-mm-se-programming\Anton-Kraev\Term4\Fibers\Fibers\bin\x86\Debug\net7.0\Fibers.exe
+C:\Users\Professional\Documents\GitHub\spsu-mm-se-programming\Anton-Kraev\Term4\Fibers\Fibers\bin\x86\Debug\net7.0\Fibers.deps.json
+C:\Users\Professional\Documents\GitHub\spsu-mm-se-programming\Anton-Kraev\Term4\Fibers\Fibers\bin\x86\Debug\net7.0\Fibers.runtimeconfig.json
+C:\Users\Professional\Documents\GitHub\spsu-mm-se-programming\Anton-Kraev\Term4\Fibers\Fibers\bin\x86\Debug\net7.0\Fibers.dll
+C:\Users\Professional\Documents\GitHub\spsu-mm-se-programming\Anton-Kraev\Term4\Fibers\Fibers\bin\x86\Debug\net7.0\Fibers.pdb
+C:\Users\Professional\Documents\GitHub\spsu-mm-se-programming\Anton-Kraev\Term4\Fibers\Fibers\obj\x86\Debug\net7.0\Fibers.csproj.AssemblyReference.cache
+C:\Users\Professional\Documents\GitHub\spsu-mm-se-programming\Anton-Kraev\Term4\Fibers\Fibers\obj\x86\Debug\net7.0\Fibers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\Documents\GitHub\spsu-mm-se-programming\Anton-Kraev\Term4\Fibers\Fibers\obj\x86\Debug\net7.0\Fibers.AssemblyInfoInputs.cache
+C:\Users\Professional\Documents\GitHub\spsu-mm-se-programming\Anton-Kraev\Term4\Fibers\Fibers\obj\x86\Debug\net7.0\Fibers.AssemblyInfo.cs
+C:\Users\Professional\Documents\GitHub\spsu-mm-se-programming\Anton-Kraev\Term4\Fibers\Fibers\obj\x86\Debug\net7.0\Fibers.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Documents\GitHub\spsu-mm-se-programming\Anton-Kraev\Term4\Fibers\Fibers\obj\x86\Debug\net7.0\Fibers.dll
+C:\Users\Professional\Documents\GitHub\spsu-mm-se-programming\Anton-Kraev\Term4\Fibers\Fibers\obj\x86\Debug\net7.0\refint\Fibers.dll
+C:\Users\Professional\Documents\GitHub\spsu-mm-se-programming\Anton-Kraev\Term4\Fibers\Fibers\obj\x86\Debug\net7.0\Fibers.pdb
+C:\Users\Professional\Documents\GitHub\spsu-mm-se-programming\Anton-Kraev\Term4\Fibers\Fibers\obj\x86\Debug\net7.0\Fibers.genruntimeconfig.cache
+C:\Users\Professional\Documents\GitHub\spsu-mm-se-programming\Anton-Kraev\Term4\Fibers\Fibers\obj\x86\Debug\net7.0\ref\Fibers.dll
