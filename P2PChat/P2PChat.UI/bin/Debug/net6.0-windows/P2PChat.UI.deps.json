@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "P2PChat.UI/1.0.0": {
+        "dependencies": {
+          "P2PChat": "1.0.0"
+        },
+        "runtime": {
+          "P2PChat.UI.dll": {}
+        }
+      },
+      "P2PChat/1.0.0": {
+        "runtime": {
+          "P2PChat.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P2PChat.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "P2PChat/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
